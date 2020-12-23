@@ -1,10 +1,3 @@
-Arpit Bhushan Sharma was born in Aligarh, India, in 1997. He is currently working full time as a Engineering Patent Analyst at Lakshmikumaran & Sridharan Attorney, Hauz Khas New Delhi, India and part time AI developer in 10xAI Learning, Noida, Uttar Pradesh, India. He recieved his B.Tech degree from Department of Electrical & Electronics Engineering by KIET Group of Institutions, Ghaziabad, Affiliated by Dr. APJ Abdul Kalam Technical University, Lucknow, India in 2016-2020 Batch. He is a Student Member in Institution of Electrical and Electronics Engineers (IEEE) USA and Serving as a Beta Microsoft Student Learn Ambassador. His interest lies in Computational Intelligence, Artificial Intelligence, Machine Learning, Deep Learning, Natural Processing and Neural Networks. He has also worked in Internet of Things domain projects. 
-He got different publications in Computational Intelligence, Artificial Intelligence and Machine Learning which includes:
-1. Optimal Pitch Angle Identification and Minimization of Power Variation in Wind Energy Conversion System using Fuzzy Logic Control (IEEE)
-2.Intelligent Speed Estimation in Induction Motor Drive Control using Feed - Forward Neural Network Assisted Model Reference Adaptive System (IEEE)
-3.Issues and Challenges in the field of Data Analytics and IoT (IJITEE)
-4.Performance Evaluation and Identification of Optimal Classifier for Credit Card Fraudulent Detection (Springer)
-
 <h1 align="center">Hi 👋, I'm Arpit Bhushan Sharma</h1>
 <h3 align="center">A passionate Artificial Intelligence Developer from India</h3>
 
