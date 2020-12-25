@@ -37,6 +37,6 @@
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/12340316/arpit-sharma" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="https://stackoverflow.com/users/12340316/arpit-sharma" height="30" width="30" /></a>
 <a href="https://kaggle.com/arpit3043" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="arpit3043" height="30" width="30" /></a>
 <a href="https://instagram.com/_arpit_bhushan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_arpit_bhushan" height="30" width="30" /></a>
-<a href="https://medium.com/@bhushansharmaarpit" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@bhushansharmaarpit" height="30" width="30" /></a>
+<a href="https://arpit3043.medium.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@bhushansharmaarpit" height="30" width="30" /></a>
 <a href="https://www.hackerrank.com/arpit3043" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="arpit3043" height="30" width="30" /></a>
 </p>
