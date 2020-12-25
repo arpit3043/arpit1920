@@ -4,14 +4,16 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arpit1920" alt="arpit1920" /> </p>
 
 - 🔭 I’m currently working on [#100DaysofCPP](https://github.com/arpit1920/100-days-of-Cpp)
-
+- 🔭 I’m currently working on [#Python Operations](https://github.com/arpit1920/python-Operations)
+- 🔭 I’m currently working on [#Learn C Programming](https://github.com/arpit1920/Learning-C-Programming)
+- 🔭 I’m currently working on [#Machine Learning Books](https://github.com/arpit1920/Machine-Learning-Books)
 - 🌱 I’m currently learning **Programming Languages - C, C++, Python**
 
 - 👯 I’m looking to collaborate on **Machine Learning & Deep Learning**
 
-- 👨‍💻 All of my projects are available at [https://www.medium.com/@bhushansharmaarpit/](https://www.medium.com/@bhushansharmaarpit/)
+- 👨‍💻 All of my projects are available at [Medium](https://arpit3043.medium.com/)
 
-- 📝 I regulary write articles on [https://www.arpit-ml.blogspot.com](https://www.arpit-ml.blogspot.com)
+- 📝 I regulary write articles on [Blogger](https://www.arpit-ml.blogspot.com)
 
 - 💬 Ask me about **Python, ML, AI, DL, NLP**
 
