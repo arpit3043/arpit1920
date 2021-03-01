@@ -21,7 +21,7 @@
 
 - 📝 My Research Paper work is on [Google Scholar](https://scholar.google.com/citations?user=m1ODBzcAAAAJ&hl=en)
 
-- 💬 Ask me about **C, C++, Python, ML, AI, DL, NLP, MATLAB, SQL, TRenewable Energy**
+- 💬 Ask me about **C, C++, Python, ML, AI, DL, NLP, MATLAB, SQL, Renewable Energy**
 
 - 📫 How to reach me **arpit3043@gmail.com**
 
