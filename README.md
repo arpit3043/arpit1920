@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arpit1920" alt="arpit1920" /> </p>
 
-- 🔭 I’m currently working on [#Python Operations](https://github.com/arpit1920/python-Operations)
+- 🔭 I’m currently working on [#Apache Groovy](https://github.com/arpit1920/Attempt-to-Apache-Groovy)
 - 🔭 I’m currently working on [#Intelligent Estimation of Induction Motor](https://github.com/arpit1920/Intelligent-Estimation-of-Speed-of-Induction-Motor)
 - 🌱 I’m currently learning and revising **Programming Languages - C, C++, Python, SQL**
 - 🌹  The Most Liked and stared Repositories are:
