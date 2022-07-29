@@ -3,7 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arpit1920" alt="arpit1920" /> </p>
 
-- 🔭 I’m currently working on [#Data Structure and Algorithms](https://github.com/arpit1920)
+- 🔭 I’m currently working on [Data Structure and Algorithms Sheets](https://github.com/arpit1920/Data-Structure-and-Algorithms-Sheets)
+- 🧑‍🔬 I'm also working on all the interview preparation skills and questions on [LeetCode Solutions](https://github.com/arpit1920/LeetCode-Solutions) with proper explainations in blogs and written comment forms
+- Trying to give easy and approachable solutions for all the [Searching Algorithms](https://github.com/arpit1920/Searching-Algorithms)
+- Trying to give easy and approachable solutions for all the [Sorting Algorithms](https://github.com/arpit1920/Sorting-Algorithms)
+- Some of the Good resources which I am working on are all insode my repository and star marked as well, please once check all the cheatsheets, resources, roadmaps and all other useful things inside my repository.
 - 🌱 I’m currently learning and revising **Programming Languages - C, C++, Python, Java, MySQL and MongoDB**
 - 🌹  The Most Liked and stared Repositories are:
 - [#AI Cheatsheet for Basics](https://github.com/arpit1920/AI-Cheatsheets-for-basics)
